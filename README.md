@@ -15,6 +15,9 @@ linux
 * Download the files
 * put them in /var/www/https/
 
+
+## Dependency
+* PHP7 (idk if PHP8 will work with this)
 <!-- USAGE EXAMPLES -->
 ## Usage
 
